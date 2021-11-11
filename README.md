@@ -1,6 +1,6 @@
 # Vue3-vite-starter-templates
 
-### This repository contains various starter templates using Vue.js 3, vite, pnpm and some popular design flavours (AntUI, ElementUI, NaiveUI etc.)
+### This repository contains various starter templates using Vue.js 3, vite, pnpm and some popular design flavours (AntUI, ElementUI, NaiveUI etc.). All templates are fast and easy to start with.
 
 <hr/>
 
