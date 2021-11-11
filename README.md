@@ -10,6 +10,10 @@
 - `cd vue3-vite-starter-templates/<template-name>`
 - `pnpm i`
 - `pnpx vite`
+
+## -> Notes
+
+- Unplugin-vue-components has been already set up for you in all the templates, so you don't have to use import statements anymore! For more info, visit [unplugin-vue-components github](https://github.com/antfu/unplugin-vue-components)
 ## -> Requirements
 
 - pnpm (Requires Node 16+)
