@@ -6,6 +6,10 @@ declare module 'vue' {
   export interface GlobalComponents {
     HelloWorld: typeof import('./src/components/HelloWorld.vue')['default']
     NButton: typeof import('naive-ui')['NButton']
+    NEllipsis: typeof import('naive-ui')['NEllipsis']
+    NGradientText: typeof import('naive-ui')['NGradientText']
+    NSpace: typeof import('naive-ui')['NSpace']
+    NTreeSelect: typeof import('naive-ui')['NTreeSelect']
   }
 }
 
